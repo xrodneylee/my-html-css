@@ -1,9 +1,36 @@
 h1{
 	color: blue;
 	font-size: 99px;
+	border: 3px solid black;
 }
 
 p{
 	color: red;
 	font-size: 30px;
+}
+
+img{
+	border: 3px solid blue;
+}
+
+.style1{
+	color: blue;
+}
+
+.style2{
+	font-size: 20px;
+	font-family: verdana;
+	line-height: 1.5;
+	text-align: left;
+	text-indent: 40px;
+	text-decoration: underline;
+}
+
+a:hover{
+	color: grey;
+	border-bottom: 10px solid;
+}
+
+a:active{
+	color: yellow
 }
