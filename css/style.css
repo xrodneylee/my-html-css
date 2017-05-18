@@ -26,6 +26,17 @@ img{
 	text-decoration: underline;
 }
 
+.style3 p{
+	color: blue;
+}
+
+.style3 span{
+	font-size: 50px;
+}
+
+.style4{
+	color: red;
+}
 a:hover{
 	color: grey;
 	border-bottom: 10px solid;
