@@ -45,3 +45,13 @@ a:hover{
 a:active{
 	color: yellow
 }
+
+.box {
+	border: 10px solid black;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+.box p{
+	margin-bottom: 80px;
+}
